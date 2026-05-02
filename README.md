@@ -62,7 +62,11 @@ streamlit run app.py
 ## 📊 Sample Output
 
 ### 🧾 Input Interface
-![Input UI](screenshots/input.png)
+![Input 1](screenshots/input1.png)
+
+![Input 2](screenshots/input2.png)
 
 ### 📊 Prediction Result
-![Result UI](screenshots/result.png)
+![Result 1](screenshots/result1.png)
+
+![Result 2](screenshots/result2.png)
